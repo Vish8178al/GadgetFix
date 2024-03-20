@@ -1,1 +1,1 @@
-# GadgetFix
+GadgetFix is a webapp which is used to contact repair master and inform them problem which arises in our gadgets. Admin provide different repair master at different location and assign gadgets to make solution of the respective gadgets. This webapp is built using J2EE,JDBC,JSP,HTML,CSS,Bootstrap,JavaScripts.There is email authentication provided at both the ends.
